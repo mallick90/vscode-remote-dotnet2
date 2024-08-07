@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/vscode-remote-try-dotnet.props" />
+</Project>

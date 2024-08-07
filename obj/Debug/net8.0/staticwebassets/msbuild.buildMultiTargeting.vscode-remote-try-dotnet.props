@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/vscode-remote-try-dotnet.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZrziWkl3a0QKxH7fQHwR3UtaqlV9lOh1QTDINsdtXy4=",
+  "Source": "vscode-remote-try-dotnet",
+  "BasePath": "_content/vscode-remote-try-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
